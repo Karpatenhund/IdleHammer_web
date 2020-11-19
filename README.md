@@ -1,1 +1,3 @@
-# IdleHammer-3e---The-Incremental-Heresy-
+# IdleHammer 3e4   The-Incremental-Heresy
+
+https://ntoellner.github.io/IdleHammer_IncrementalHeresy/
